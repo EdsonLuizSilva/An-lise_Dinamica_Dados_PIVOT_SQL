@@ -1,0 +1,1 @@
+# An-lise_Dinamica_Dados_PIVOT_SQL
